@@ -1,0 +1,33 @@
+Os hardwares necessarios para utilizar um microcomputador é : Mouse, Teclado, Munitor.
+A parte interna de um microcomputador contem: Placa mãe, processador, Fonte, memoria RAM e memoria rom.
+
+A montagem de um micro computador é simples. Primeiramente você deve ter uma noção basica sobre arquitetura
+dos computadores para saber quais peças funcionarão com as outras, depois é só seguir os passos basicos para
+a montagem de qualquer microcomputador.
+
+Começamos sempre com a placa mãe, onde abriremos o slot da CPU (processador) e encaixaremos o mesmo, logo
+após isso devemos colocar o cooler do proscesador que vem junto com ele depois colocaremos as memórias RAM
+no slot dedicado a elas fazendo uma pressao até ouvir um estralo. Depois devemos colocar a placa mãe no gabinete,
+parafusando ela com os parafusos no local adequado, terminando este passo, falta a fonte, hd/ssds/hdd e os coolers
+que varia de gabinete para gabinete, mas esta parte é facil, basta parafusar no local demarcado pelo fabricante e pronto.
+
+Para desmontar um micro computador é muito simples também. Basta seguir a seguinte ordem e será bem facil:
+primeiro você deve retirar a fonte, coolers e hd/hdd/ssd se necessário, depois disso você deve retirar os parafuso da placa
+mâe para conseguir retira-la do gabinete. Após isso devemos tirar o cooler do proscessador, retirar as memorias RAM e
+abrir o slot da CPU (processador).
+
+Para ligar um microcomputador em uma rede eletrica devemos tomar alguns cuidados para que não ocorra riscos de ocorrer algo
+indesejado. Primeiramente devemos verificar a fonte do microcomputador visualizando a chave de tensão 220V ou 115V dependendo
+da região onde for ligado aqui em joinville é 220V. Depois de verificar a tensão da fonte devemos ver os requisitos do microcomputador
+e verificar se a fonte instalada consegue suprir os requisitos, caso contrario NÃO deve ser ligado em uma rede eletrica.
+Depois de tudo isso temos que tomar alguns cuidados com o cabo, pois é com ele que toda corrente eletrica irá passar, essa parte
+é simples basta ter os minimos cuidados e não colocar a mão junto ao pino de metal, se não você ja sabe né?
+
+Para ter uma boa utilização de um microcomputador é simples, tome cuidado para não quebrar qualquer parte física e tentar não 
+mecher em sistemas logicos do proprio microcomputador fazendo com que ele tenha um mal funcionamento.
+
+Mas não custa dar umas resalvas a maus usos comuns que muita gente faz : SEMPRE desligar o aparelho antes de tirar ele da tomada
+caso contrario, voce pode danificar uma parte importante do sistema PERMANENTEMENTE
+  Sempre conferir oque instala para não correr risco de pegar algum malware que danifique seu sistema.
+  Ter em mente que nem tudo foi feito para usuarios sem experiencia em alguma área, então não saia desisntalando tudo ou mechendo em todas 
+  as configurações que não irão interferir na sua area de uso.
