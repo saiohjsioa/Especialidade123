@@ -1,0 +1,96 @@
+3. Apresentar uma pesquisa com os significados e as funções e/ou aplicações na informática dos seguintes verbetes e siglas: RAM, ROM, HD, CPU, IDE, SATA, Widescreen, Flat, PS2, USB, RJ45, Serial, FireWire, MB , GB, TB, PB, KBPS, GBPS, MHZ, GHZ, VGA, HDMI, BIOS, Wireless, Modem, HUB, Switch, Bluetooth e outros que o examinador solicitar.
+
+Widescream 
+
+  Widescreen nada mais é do que “tela larga”. São monitores mais compridos (geralmente LCD, mas a tecnologia usada não importa, e sim o formato) fora do padrão usado há anos, o “4:3”. As telas de televisores e monitores de computador em
+geral são um retângulo, com as medidas dos seus lados na proporção de 4:3.
+
+
+Flat
+
+// sem nada
+
+
+PS2
+
+// sem nada
+
+
+USB
+
+ USB é a sigla em inglês de Universal Serial Bus (“Porta Universal”, em português), um tipo de tecnologia que permite a conexão de periféricos sem a necessidade de desligar o computador, além de transmitir e armazenar dados.
+
+
+RJ45
+
+ RJ45 é um tipo de conector utilizado para a rede Ethernet. ... Como os cabos Ethernet possuem um conector RJ45 em cada extremidade, os cabos Ethernet são por vezes também chamado de cabos RJ-45. O RJ em RJ45 significa registered jack ou
+jack registado, uma vez que é uma interface de rede padronizada.
+
+
+Serial
+
+ A interface serial ou porta serial, também conhecida como RS-232 é uma porta de comunicação utilizada para conectar pendrives, modems, mouses, algumas impressoras, scanners e outros equipamentos de hardware. Na interface serial, os bits
+são transferidos em fila, ou seja, um bit de dados de cada vez. O padrão RS-232 foi originalmente definido para uma comunicação por meio de 25 fios diferentes. A IBM ao utilizar o padrão para o seu projeto do IBM-PC, definiu que apenas 9
+pinos seriam necessários. Todavia, manteve-se nos computadores o conector DB25, por ser um padrão da época.
+
+
+FireWire
+
+ FireWire é um padrão de conexão a cabo criado pela Apple para ser superior ao USB de várias maneiras e, embora seja difícil de ser utilizada por fabricantes, ainda se mostra uma alternativa interessante para criar redes ad-hoc ou para,
+simplesmente, conectar uma câmera ao computador em alta velocidade.
+
+
+
+MB, GB, TB, PB, KBPS e GBPS
+
+ Unidade de medida de tamanho de dados onde a menor medida é um bite que é composto por 8 bits.
+	1 KB(kilobyte) = 1024 B
+	1 MB(Megabyte) = 1024 KB
+	1 GB(Gigabyte) = 1024 MB
+	1 TB(Terabyte) = 1024 GB
+ KBPS significa KB por segundo.
+ GBPS significa GB por segundo.
+
+	
+MHZ e GHZ
+
+ MHZ unidade de frequência que representa 1 milhão de hertz
+ GHZ unidade de frequência que representa 1 bilhão de hertz
+
+
+VGA e HDMI
+ 
+ VGA é a mais antiga entre as conexões presentes no mercado. Ele é normalmente usado para conectar o computador ao monitor, mas também pode estabelecer ligação entre o PC e a TV
+ O cabo HDMI é um transmissor de dados para aparelhos de alta resolução
+ 
+
+BIOS
+
+ BIOS (Basic Input/Output System), é responsavel pela execução de tarefas imprescindíveis, como o reconhecimento dos hardwares instalados, a verificação das horas no relógio interno e a inicialização do sistema operacional, seja ele 
+Windows, Mac ou Linux. 
+
+
+wireless
+
+ A tecnologia Wireless significa sem fio, e possibilita a transmissão da conexão entre pontos distantes sem precisar usar fios 
+
+
+Modem
+
+ Um modem é um dispositivo de hardware que converte dados em um formato adequado para um meio de transmissão de forma que possam ser transmitidos de um computador para outro.
+
+
+HUB
+
+ Hub ou concentrador é o processo pelo qual se transmite ou difunde determinada informação, tendo, como principal característica, que a mesma informação está sendo enviada para muitos receptores ao mesmo tempo
+
+
+Switch
+
+ Um switch (ou comutador) é um equipamento activo que funciona normalmente na camada 2 do modelo OSI (Data Link) e tem como principal funcionalidade a interligação de equipamentos (estações de trabalho, servidores, etc) de uma rede
+ uma vez que possui várias portas RJ45 (ou ISO 8877) fêmea.
+
+
+Bluetooth 
+
+ É um protocolo
