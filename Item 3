@@ -8,12 +8,12 @@ geral são um retângulo, com as medidas dos seus lados na proporção de 4:3.
 
 Flat
 
-// sem nada
+sistema fino
 
 
 PS2
 
-// sem nada
+PS2 É um conector conector mini-DIN de três pinos usado para conectar teclado e mouse a um cistema de computador compatível com PC.
 
 
 USB
@@ -48,6 +48,7 @@ MB, GB, TB, PB, KBPS e GBPS
 	1 MB(Megabyte) = 1024 KB
 	1 GB(Gigabyte) = 1024 MB
 	1 TB(Terabyte) = 1024 GB
+	1 PB(Petabyte) = 1024 TB
  KBPS significa KB por segundo.
  GBPS significa GB por segundo.
 
